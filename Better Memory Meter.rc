@@ -1,0 +1,242 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+224                     ICON                    "ico224.ico"
+225                     ICON                    "ico225.ico"
+226                     ICON                    "ico226.ico"
+227                     ICON                    "ico227.ico"
+228                     ICON                    "ico228.ico"
+229                     ICON                    "ico229.ico"
+230                     ICON                    "ico230.ico"
+231                     ICON                    "ico231.ico"
+232                     ICON                    "ico232.ico"
+233                     ICON                    "ico233.ico"
+234                     ICON                    "ico234.ico"
+235                     ICON                    "ico235.ico"
+236                     ICON                    "ico236.ico"
+237                     ICON                    "ico237.ico"
+238                     ICON                    "ico238.ico"
+239                     ICON                    "ico239.ico"
+240                     ICON                    "ico240.ico"
+241                     ICON                    "ico241.ico"
+242                     ICON                    "ico242.ico"
+243                     ICON                    "ico243.ico"
+244                     ICON                    "ico244.ico"
+245                     ICON                    "ico245.ico"
+246                     ICON                    "ico246.ico"
+247                     ICON                    "ico247.ico"
+248                     ICON                    "ico248.ico"
+249                     ICON                    "ico249.ico"
+250                     ICON                    "ico250.ico"
+251                     ICON                    "ico251.ico"
+252                     ICON                    "ico252.ico"
+253                     ICON                    "ico253.ico"
+254                     ICON                    "ico254.ico"
+255                     ICON                    "ico255.ico"
+256                     ICON                    "ico256.ico"
+257                     ICON                    "ico257.ico"
+258                     ICON                    "ico258.ico"
+259                     ICON                    "ico259.ico"
+260                     ICON                    "ico260.ico"
+261                     ICON                    "ico261.ico"
+262                     ICON                    "ico262.ico"
+263                     ICON                    "ico263.ico"
+264                     ICON                    "ico264.ico"
+265                     ICON                    "ico265.ico"
+266                     ICON                    "ico266.ico"
+267                     ICON                    "ico267.ico"
+268                     ICON                    "ico268.ico"
+269                     ICON                    "ico269.ico"
+270                     ICON                    "ico270.ico"
+271                     ICON                    "ico271.ico"
+272                     ICON                    "ico272.ico"
+273                     ICON                    "ico273.ico"
+274                     ICON                    "ico274.ico"
+275                     ICON                    "ico275.ico"
+276                     ICON                    "ico276.ico"
+277                     ICON                    "ico277.ico"
+278                     ICON                    "ico278.ico"
+279                     ICON                    "ico279.ico"
+280                     ICON                    "ico280.ico"
+281                     ICON                    "ico281.ico"
+282                     ICON                    "ico282.ico"
+283                     ICON                    "ico283.ico"
+284                     ICON                    "ico284.ico"
+285                     ICON                    "ico285.ico"
+286                     ICON                    "ico286.ico"
+287                     ICON                    "ico287.ico"
+288                     ICON                    "ico288.ico"
+289                     ICON                    "ico289.ico"
+290                     ICON                    "ico290.ico"
+291                     ICON                    "ico291.ico"
+292                     ICON                    "ico292.ico"
+293                     ICON                    "ico293.ico"
+294                     ICON                    "ico294.ico"
+295                     ICON                    "ico295.ico"
+296                     ICON                    "ico296.ico"
+297                     ICON                    "ico297.ico"
+298                     ICON                    "ico298.ico"
+299                     ICON                    "ico299.ico"
+300                     ICON                    "ico300.ico"
+301                     ICON                    "ico301.ico"
+302                     ICON                    "ico302.ico"
+303                     ICON                    "ico303.ico"
+304                     ICON                    "ico304.ico"
+305                     ICON                    "ico305.ico"
+306                     ICON                    "ico306.ico"
+307                     ICON                    "ico307.ico"
+308                     ICON                    "ico308.ico"
+309                     ICON                    "ico309.ico"
+310                     ICON                    "ico310.ico"
+311                     ICON                    "ico311.ico"
+312                     ICON                    "ico312.ico"
+313                     ICON                    "ico313.ico"
+314                     ICON                    "ico314.ico"
+315                     ICON                    "ico315.ico"
+316                     ICON                    "ico316.ico"
+317                     ICON                    "ico317.ico"
+318                     ICON                    "ico318.ico"
+319                     ICON                    "ico319.ico"
+320                     ICON                    "ico320.ico"
+321                     ICON                    "ico321.ico"
+322                     ICON                    "ico322.ico"
+323                     ICON                    "ico323.ico"
+324                     ICON                    "ico324.ico"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MAIN DIALOGEX 0, 0, 217, 94
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION
+CAPTION "Better Memory Meter"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    CTEXT           "Written and developed by Peter Souza IV\n\nVersion 1.00   June 20th, 2003\nVersion 1.10   November 15th, 2007\nVersion 2.00   April 15th, 2010\n\nPeterSouza.com",IDC_STATIC,0,5,217,58
+    PUSHBUTTON      "OK",IDC_OK,83,76,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,0,0
+ PRODUCTVERSION 2,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "Peter Souza IV"
+            VALUE "FileDescription", "Better Memory Meter"
+            VALUE "FileVersion", "2.00.10510.576"
+            VALUE "InternalName", "Better Memory Meter"
+            VALUE "LegalCopyright", "Copyright © 2003-2010 Peter Souza IV"
+            VALUE "OriginalFilename", "Better Memory Meter.exe"
+            VALUE "ProductName", "Better Memory Meter"
+            VALUE "ProductVersion", "2.00.10510.576"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_MAIN, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 36
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

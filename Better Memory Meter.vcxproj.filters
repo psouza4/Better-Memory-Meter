@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{d79699a6-8553-449a-afbe-a7233314b7e8}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{703fd08d-fafa-4c2c-93fb-96c2e9548c4c}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{062ece3f-416d-4899-8b61-5f97858f60dd}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Better Memory Meter.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ico224.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico225.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico226.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico227.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico228.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico229.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico230.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico231.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico232.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico233.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico234.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico235.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico236.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico237.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico238.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico239.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico240.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico241.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico242.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico243.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico244.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico245.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico246.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico247.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico248.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico249.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico250.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico251.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico252.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico253.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico254.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico255.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico256.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico257.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico258.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico259.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico260.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico261.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico262.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico263.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico264.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico265.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico266.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico267.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico268.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico269.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico270.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico271.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico272.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico273.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico274.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico275.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico276.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico277.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico278.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico279.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico280.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico281.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico282.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico283.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico284.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico285.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico286.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico287.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico288.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico289.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico290.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico291.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico292.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico293.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico294.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico295.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico296.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico297.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico298.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico299.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico300.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico301.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico302.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico303.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico304.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico305.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico306.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico307.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico308.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico309.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico310.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico311.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico312.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico313.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico314.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico315.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico316.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico317.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico318.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico319.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico320.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico321.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico322.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico323.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico324.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

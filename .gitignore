@@ -26,3 +26,17 @@
 *.exe
 *.out
 *.app
+
+# Extra
+*.suo
+*.aps
+*.ncb
+*.sdf
+Better Memory Meter.dsp
+Better Memory Meter.dsw
+
+
+Release/*
+Setup/!  Compiled/*
+*.opensdf
+*.opt
